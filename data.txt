@@ -1,0 +1,12 @@
+SORT
+5 4 3 2 1
+REVERSE
+programowanie
+REPEAT
+assd a sdgghha
+SORT
+cba
+REVERSE
+abc
+REPEAT
+cbac
